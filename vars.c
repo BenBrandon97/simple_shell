@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * is_chain - test if char in buffer is a chain delimeter
  * @info: the parameter struct

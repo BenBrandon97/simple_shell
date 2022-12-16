@@ -49,12 +49,10 @@ char *starts_with(const char *haystack, const char *needle)
 			return (NULL);
 	return ((char *)haystack);
 }
-
 /**
  * _strcat - concatenates two strings
  * @dest: the destination buffer
  * @src: the source buffer
- *
  * Return: pointer to destination buffer
  */
 char *_strcat(char *dest, char *src)
